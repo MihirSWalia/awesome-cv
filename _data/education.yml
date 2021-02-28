@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Ajeenkya D.Y. Patil University
+  dates: [August, 2017 - May, 2020]
+  qualification: Bachelors in Computer Application with Cloud Technology and Information Security.
   quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
+    Course with strong technical foundation and specialization in Cloud Computing and Information Security 
+  #description: | # this will include new lines to allow paragraphs
     Description of qualification
