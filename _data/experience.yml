@@ -1,5 +1,16 @@
 # Experience template
 - layout: top-middle
+company: SeconSet Community
+  #link: 
+  job_title: Core Team Member
+  dates: December, 2020 - Present 
+  #quote: >
+   #Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+     - Writing CTF and cybersecurity based blogs on Medium.
+     - Planning and managing online events.
+    
+
   company: Testbook Edu Solutions Pvt Ltd.
   link: www.testbook.com
   job_title: DevOps Intern
