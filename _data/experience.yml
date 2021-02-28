@@ -1,10 +1,13 @@
 # Experience template
-- layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- layout: center
+  company: Testbook Edu Solutions Pvt Ltd.
+  link: www.testbook.com
+  job_title: DevOps Intern
+  dates: January, 2020 - April, 2020
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Installation and Configuration of various tools on GCP and AWS instances.
+    - Granting and Revoking appropriate access needed for colleagues.
+    - Setup and manage monitoring environment for all the instances and tools.
+    - Writing shell scripts for automating several tasks, and many more.
