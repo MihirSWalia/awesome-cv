@@ -7,7 +7,7 @@
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-     Installation and Configuration of various tools on GCP and AWS instances.
-     Granting and Revoking appropriate access needed for colleagues.
-     Setup and manage monitoring environment for all the instances and tools.
-     Writing shell scripts for automating several tasks, and many more.
+     - Installation and Configuration of various tools on GCP and AWS instances.
+     - Granting and Revoking appropriate access needed for colleagues.
+     - Setup and manage monitoring environment for all the instances and tools.
+     - Writing shell scripts for automating several tasks, and many more.
