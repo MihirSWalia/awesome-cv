@@ -1,25 +1,9 @@
-# Experience template
-- layout: top-middle
-  company: Testbook Edu Solutions Pvt Ltd.
-  link: www.testbook.com
-  job_title: DevOps Intern
-  dates: January, 2020 - April, 2020
-  #quote: >
-   #Short description of the company (optional)
+- layout: left
+  company: Company name
+  link: Link to company (optional)
+  job_title: Job title
+  dates: Date Range (eg. November 2016 - present)
+  quote: >
+   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-     Installation and Configuration of various tools on GCP and AWS instances.
-     Granting and Revoking appropriate access needed for colleagues.
-     Setup and manage monitoring environment for all the instances and tools.
-     Writing shell scripts for automating several tasks, and many more.
-
-company: Testbook Edu Solutions Pvt Ltd.
-  link: www.testbook.com
-  job_title: Quality Assurance Intern
-  dates: May, 2018 - August, 2018  
-  #quote: >
-   #Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-     Performed manual testing of the android application, Frontend of the website and the Backend by writing test cases.
-     Represented the QA team for the official meetings.
-     Helped the support team with all the technical issues with customers.
-     Managed a case of bug bounty with the server having 3 RCEs and helped the Bug hunter communicate with the team.
+    Description of role
