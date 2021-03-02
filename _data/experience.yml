@@ -1,5 +1,5 @@
 # Experience template
-- layout: middle
+- layout: top-middle
 company: SeconSet Community
   #link: 
   job_title: Core Team Member
@@ -7,8 +7,8 @@ company: SeconSet Community
   #quote: >
    #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-     - Writing CTF and cybersecurity based blogs on Medium.
-     - Planning and managing online events.
+      Writing CTF and cybersecurity based blogs on Medium.
+      Planning and managing online events.
     
 
   company: Testbook Edu Solutions Pvt Ltd.
@@ -18,10 +18,10 @@ company: SeconSet Community
   #quote: >
    #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-     - Installation and Configuration of various tools on GCP and AWS instances.
-     - Granting and Revoking appropriate access needed for colleagues.
-     - Setup and manage monitoring environment for all the instances and tools.
-     - Writing shell scripts for automating several tasks, and many more.
+     Installation and Configuration of various tools on GCP and AWS instances.
+     Granting and Revoking appropriate access needed for colleagues.
+     Setup and manage monitoring environment for all the instances and tools.
+     Writing shell scripts for automating several tasks, and many more.
 
 company: Testbook Edu Solutions Pvt Ltd.
   link: www.testbook.com
@@ -30,7 +30,7 @@ company: Testbook Edu Solutions Pvt Ltd.
   #quote: >
    #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-     - Performed manual testing of the android application, Frontend of the website and the Backend by writing test cases.
-     - Represented the QA team for the official meetings.
-     - Helped the support team with all the technical issues with customers.
-     - Managed a case of bug bounty with the server having 3 RCEs and helped the Bug hunter communicate with the team.
+     Performed manual testing of the android application, Frontend of the website and the Backend by writing test cases.
+     Represented the QA team for the official meetings.
+     Helped the support team with all the technical issues with customers.
+     Managed a case of bug bounty with the server having 3 RCEs and helped the Bug hunter communicate with the team.
