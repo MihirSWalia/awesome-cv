@@ -1,7 +1,22 @@
 - layout: left
   company: SecOnset Community
-  link: Link to company (optional)
   job_title: Core Team Member
+  dates: Date Range (eg. November 2016 - present)
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+    
+    company: Testbook Edu Solutions Pvt Ltd
+  job_title: DevOps / SRE / SysAdmin Intern
+  dates: Date Range (eg. November 2016 - present)
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+    
+    company: Testbook Pvt Ltd
+  job_title: Quality Assurance Intern
   dates: Date Range (eg. November 2016 - present)
   quote: >
    Short description of the company (optional)
